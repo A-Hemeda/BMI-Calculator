@@ -1,5 +1,5 @@
-# bmi
+# BMI
 
-A bmi calculator.
+## A bmi calculator.
 
-![pngegg](https://user-images.githubusercontent.com/101954795/177328787-3e51e80c-0aef-4f66-8a5c-2894b6aa3eb2.png)
+![ic_launcher](https://user-images.githubusercontent.com/101954795/177343862-25358140-ca32-472e-80d2-70b818c26d0c.png)
